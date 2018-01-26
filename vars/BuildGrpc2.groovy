@@ -4,9 +4,6 @@ package jp.lnc.jenkins.libs;
 class Point2 {
   float x,y,z;
 
-  Point2(){
-    return
-  }
   int getInt(){
     return 10
   }
