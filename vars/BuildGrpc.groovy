@@ -8,4 +8,7 @@ class Point2 {
     return 10
   }
 }
+def call(args) {
+      return args
+}
 
