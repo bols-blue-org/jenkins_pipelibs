@@ -10,4 +10,7 @@ class BuildGrpc {
   int getInt(){
     return 10
   }
+  String getString(){
+    return "I'm BuildGrpc"
+  }
 }
