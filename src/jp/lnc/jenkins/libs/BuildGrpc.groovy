@@ -1,7 +1,7 @@
 package jp.lnc.jenkins.libs;
 
 // point in 3D space
-class Point {
+class BuildGrpc {
   float x,y,z;
 
   Point(){
@@ -11,4 +11,3 @@ class Point {
     return 10
   }
 }
-
