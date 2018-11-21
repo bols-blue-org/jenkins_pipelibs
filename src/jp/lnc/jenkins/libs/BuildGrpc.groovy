@@ -5,7 +5,6 @@ class BuildGrpc {
   float x,y,z;
 
   BuildGrpc(){
-    return
   }
   int getInt(){
     return 10
