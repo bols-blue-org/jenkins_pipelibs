@@ -4,7 +4,7 @@ package jp.lnc.jenkins.libs;
 class BuildGrpc {
   float x,y,z;
 
-  Point(){
+  BuildGrpc(){
     return
   }
   int getInt(){
